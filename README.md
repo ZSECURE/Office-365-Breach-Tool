@@ -23,6 +23,6 @@ Function Change Log
 
 ### About Me
 
-* Personal Tech Twitter: [@zakclifford](https://twitter.com/zakclifford)
+* Personal Twitter: [@zakclifford](https://twitter.com/zakclifford)
 * Company Twitter: [@Computeam](https://twitter.com/computeam)
 * Website: [zsecure.uk](https://zsecure.uk/)
