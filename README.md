@@ -7,7 +7,7 @@
 # Version 1.0
 # Created: 19 Aug 2019
 # Updated: N/A
-# Description: Checks all Office 365 User for, known compromised indicators
+# Description: Checks all Office 365 User for known compromised indicators
 # SHA256 HASH: 
 # =====================================
 # Function Change Log
