@@ -1,5 +1,5 @@
 ### =====================================
-### File Name: Office 365 Breach Tool.ps1
+File Name: Office 365 Breach Tool.ps1
 ### =====================================
 - Name: Office 365 Breach Tool
 - Author: Zak Clifford 
