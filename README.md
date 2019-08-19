@@ -19,21 +19,20 @@ PS> Install-Module -Name MSOnline
 
 ## Versioning
 
-- Version 1.0
+- Current Version - 1.0
 - Created: 19 Aug 2019
-- Updated: N/A
-Function Change Log 
+- Updated: N/A 
 - v1.0 - Creation of script
 
 ## Authors
 
-* **Zak Clifford** - [M1st3r3](https://github.com/M1st3r3)
+**Zak Clifford** - [M1st3r3](https://github.com/M1st3r3)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
-### About Me
+## About Me
 
 - Personal Twitter: [@zakclifford](https://twitter.com/zakclifford)
 - Company Twitter: [@Computeam](https://twitter.com/computeam)
