@@ -9,7 +9,7 @@
 # Updated: N/A
 # Description: Checks all Office 365 User for, known compromised indicators
 # SHA256 HASH: 
-# ======================================
+# =====================================
 # Function Change Log
 # v1.0 - Creation of script
-# ======================================
+# =====================================
