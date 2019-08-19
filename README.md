@@ -1,6 +1,6 @@
-# Office 365 Breach Tool
+# Office 365 Breached User Tool
 
-Checks all Office 365 User for known compromised indicators
+Checks all Office 365 Users for known compromised indicators i.e. SMTP forwarders, Lists all Mailbox Rules, Lists all Global Admins, Lists newly created users last 7 days.
 
 ## Pre Requisites
 
