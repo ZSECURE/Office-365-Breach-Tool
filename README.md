@@ -35,5 +35,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## About Me
 
 - Personal Twitter: [@zakclifford](https://twitter.com/zakclifford)
-- Company Twitter: [@Computeam](https://twitter.com/computeam)
 - Website: [zsecure.uk](https://zsecure.uk/)
