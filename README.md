@@ -7,6 +7,9 @@ Checks all Office 365 User for known compromised indicators
 ```
 PS> Install-Module -Name ImportExcel
 ```
+```
+PS> Install-Module -Name MSOnline 
+```
 
 ### Notes
 - Name: Office 365 Breach Tool
