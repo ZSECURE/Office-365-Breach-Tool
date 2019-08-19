@@ -1,6 +1,6 @@
-# =====================================
-# File Name: Office 365 Breach Tool.ps1
-# =====================================
+### =====================================
+### File Name: Office 365 Breach Tool.ps1
+### =====================================
 - Name: Office 365 Breach Tool
 - Author: Zak Clifford 
 - Contact:  z.clifford[at]computeam.co.uk
@@ -9,7 +9,7 @@
 - Updated: N/A
 - Description: Checks all Office 365 User for known compromised indicators
 
-## =====================================
+### =====================================
 - Function Change Log 
 - v1.0 - Creation of script
-## =====================================
+### =====================================
