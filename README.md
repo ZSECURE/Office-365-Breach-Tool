@@ -26,7 +26,7 @@ PS> Install-Module -Name MSOnline
 
 ## Authors
 
-**Zak Clifford** - [M1st3r3](https://github.com/M1st3r3)
+**Zak Clifford** - [ZSECURE](https://github.com/ZSECURE)
 
 ## License
 
